@@ -1,76 +1,52 @@
 # OpenMapCanvas
 
-Welcome to **OpenMapCanvas** – an open source, global pixel-art canvas inspired by Wplace and r/place. Our goal is to empower creative communities worldwide by providing a collaborative, inclusive platform for digital art and social interaction on a world map.
+Welcome to **OpenMapCanvas** – an open source, global pixel-art platform inspired by Wplace and r/place, designed to unite creative communities on a world map.
 
----
+***
 
-## 🌎 What Is OpenMapCanvas?
+## 🌍 Vision
 
-OpenMapCanvas is an innovative platform where users from any corner of the globe can paint, edit, and preserve pixel art on a real-world map. We're building this project transparently and together, welcoming contributions, feature suggestions, and feedback from everyone.
+OpenMapCanvas empowers users everywhere to collaboratively create, share, and preserve pixel art on a living digital map of the world. Our project is open, transparent, and community-driven, welcoming contributions and new ideas from everyone.
 
----
+***
 
-## 🏞️ Dual Canvas Experience
+## 🖼️ Server Structure
 
-To cater to every community, creator, and artist, OpenMapCanvas offers **two unique places**:
+OpenMapCanvas supports **both public and private servers**, allowing diverse usage scenarios—from large global canvases to smaller community or event-specific spaces.
 
-### 1. **Free Place**
+### Official Main Servers Hosted by OpenMapCanvas Team:
 
-- **Open Creativity:** No strict rules—paint, erase, or remix anything!
-- **Dynamic Interaction:** "Voids" and art destruction allowed, fostering spontaneous, ever-changing art.
-- **Competitive and Fun:** Expect wild events, temporary creations, and a fast-paced, playful environment.
+- **Strict Place**  
+  - Enforced rules to foster respectful collaboration and lasting artworks.
+  - No griefing allowed.
+  - Void (pixel erasing) only allowed in ocean areas without damaging art.
+  - Ideal for structured projects and long-term creations.
 
-### 2. **Strict Place**
+- **Free Place**  
+  - Open creativity with minimal restrictions.
+  - Allows voids and pixel destruction, encouraging dynamic and spontaneous creations.
+  - Wild, fast-evolving environment inspired by the original r/place.
 
-- **Respectful Collaboration:** Enforced guidelines to ensure lasting artworks and fair play.
-- **No Griefing:** Destruction or abuse of others' art is not permitted.
-- **Controlled Void:** Erasing pixels ("void") is allowed only in ocean areas, and only if it does not harm existing art.
-- **Ideal for Projects:** Build murals, long-term artworks, and organized collaborations without fear of disruption.
-
----
-
-## 🔥 Ambitions & Values
-
-- **Open Source & Transparent:** Built with open code, governance, and decision-making. Everyone is invited to contribute and help shape the future.
-- **Community-Driven:** Ideas, rules, and features are forged by contributors and users. Your voice matters.
-- **Inclusive & Welcoming:** Creators, developers, organizers, and newcomers all have a space.
-- **Global & Local:** Discover collaborations across borders and represent your local culture on a world map.
-
----
+***
 
 ## 🚀 Getting Started
 
-1. **Clone or Fork** the repository.
-2. Read our [contribution guidelines](CONTRIBUTING.md).
-3. Open issues for bugs, suggestions, or ideas.
-4. Submit pull requests for improvements, features, or documentation.
+- Join official servers or set up your own private/public server.
+- Collaborate, create, compete, and connect with pixel art communities worldwide.
+- Contribute to the open source project by helping build new features, improving stability, or growing the community.
 
----
+***
 
-## 🤝 Contributing
+## 🤝 Community & Contributions
 
-We encourage contributions of all kinds—code, moderation, design, documentation, or feature proposals.
-New to open source? Check out our "good first issue" tags to get started!
+OpenMapCanvas thrives because of its contributors and users—developers, artists, moderators, and organizers alike. Everyone is welcome to participate and help shape the platform’s future.
 
----
+***
 
 ## 📄 License
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
+OpenMapCanvas is licensed under the MIT License.
 
----
+***
 
-## 💬 Community & Support
-
-- Join discussions in our Issues and Pull Requests.
-- Chat with us on [Discord/Matrix/Forum] (coming soon).
-- Follow project updates in the GitHub Discussions tab.
-
----
-
-**OpenMapCanvas** is more than a project—it's a global experiment in creativity, collaboration, and community.
-Shape the canvas. Leave your mark. Welcome to the future of online pixel art.
-
----
-
-_Questions, suggestions, or partnership ideas? Feel free to open an issue or contact the maintainers!_
+Questions or ideas? Open an issue or reach out to the maintainers!
