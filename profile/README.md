@@ -1,52 +1,39 @@
 # OpenMapCanvas
 
-Welcome to **OpenMapCanvas** – an open source, global pixel-art platform inspired by Wplace and r/place, designed to unite creative communities on a world map.
+We're building an open source pixel art platform inspired by r/place and wplace, but actually ready to handle users without dying.
 
-***
+## What's the idea?
 
-## 🌍 Vision
+So you know r/place? That was cool. And wplace exists but it's kinda struggling with all the users it's getting. We want to make something that actually scales properly - multiple servers, moderation that works, infrastructure that won't crash when people show up.
 
-OpenMapCanvas empowers users everywhere to collaboratively create, share, and preserve pixel art on a living digital map of the world. Our project is open, transparent, and community-driven, welcoming contributions and new ideas from everyone.
+Draw pixel art on world maps or custom canvases with friends or the whole internet, your choice.
 
-***
+## Server Ideas
 
-## 🖼️ Server Structure
+**Official Servers** (we'd host):
+- **Strict Place** - No griefing, organized art projects, stuff that actually stays
+- **Free Place** - Pure chaos mode, destroy whatever, classic vibes
 
-OpenMapCanvas supports **both public and private servers**, allowing diverse usage scenarios—from large global canvases to smaller community or event-specific spaces.
+*(thinking about rank-locked servers later to keep trolls out and make our lives easier)*
 
-### Official Main Servers Hosted by OpenMapCanvas Team:
+**Community Servers** - Like how TF2 or GTA (FiveM) has community servers, but for pixel art. Host your own with whatever rules you want.
 
-- **Strict Place**  
-  - Enforced rules to foster respectful collaboration and lasting artworks.
-  - No griefing allowed.
-  - Void (pixel erasing) only allowed in ocean areas without damaging art.
-  - Ideal for structured projects and long-term creations.
+## What we're thinking
 
-- **Free Place**  
-  - Open creativity with minimal restrictions.
-  - Allows voids and pixel destruction, encouraging dynamic and spontaneous creations.
-  - Wild, fast-evolving environment inspired by the original r/place.
+- **Multiple servers** - Join official ones or spin up your own
+- **Plugin system** - Minecraft server style. Want to draw on a Minecraft world instead of Earth? Someone will make a plugin for that
+- **Private servers** - Just you and your crew  
+- **Rank system** - VRChat-style trust levels, better players get access to nicer servers
+- **Actually working moderation** - Report buttons and admin tools that don't suck
+- **Self-hosting ready** - Docker + scripts so anyone can run their own
+- **Proper backend** - Load balancing, sharding, all that boring stuff so it doesn't die
 
-***
+## Where we're at
 
-## 🚀 Getting Started
+This is all just ideas brewing right now. Planning to start actually coding in September, currently just throwing ideas around on Discord.
 
-- Join official servers or set up your own private/public server.
-- Collaborate, create, compete, and connect with pixel art communities worldwide.
-- Contribute to the open source project by helping build new features, improving stability, or growing the community.
+Wanna help brainstorm? [Join Discord](https://short.miguvt.com/openmapcanvasdiscord)
 
-***
+## License
 
-## 🤝 Community & Contributions
-
-OpenMapCanvas thrives because of its contributors and users—developers, artists, moderators, and organizers alike. Everyone is welcome to participate and help shape the platform’s future.
-
-***
-
-## 📄 License
-
-OpenMapCanvas is licensed under the MIT License.
-
-***
-
-Questions or ideas? Open an issue or reach out to the maintainers!
+MIT - fully open source when it exists :3
